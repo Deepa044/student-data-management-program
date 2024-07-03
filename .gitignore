@@ -1,4 +1,8 @@
-
-**/__pycache__
-project_venv/
+# Ignore the .vscode directory
 .vscode/
+
+# Ignore the __pycache__ directory inside the src folder
+src/__pycache__/
+
+# Ignore the project_venv directory
+project_venv/
